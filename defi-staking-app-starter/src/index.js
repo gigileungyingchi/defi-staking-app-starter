@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/css/bootstrap.css' // used to style the project; by importing in this file we have access to bootstrap globally in the entire project
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
 

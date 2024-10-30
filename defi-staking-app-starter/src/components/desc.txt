@@ -1,0 +1,1 @@
+components = different functional aspects of the app

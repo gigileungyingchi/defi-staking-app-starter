@@ -1,0 +1,11 @@
+where we will be building the logic when deploying and updating our contract
+
+development in test env -> needs to be deployed in blockchain environment
+
+once deployed cannot go into the deployed contract and change it
+
+BUT transactions change the state of blockchain
+
+migrate = update the status
+
+sending our app with new updates to new addresses
